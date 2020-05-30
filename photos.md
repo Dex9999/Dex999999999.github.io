@@ -1,4 +1,4 @@
-# Photo Gallery
+# Yummy Food Gallery
 
 [Back To Home](home)
 
