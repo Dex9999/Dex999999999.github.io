@@ -1,6 +1,6 @@
 # Hacker Site
 
-[Photo Gallery](photos)
+[Yummy Food Gallery](photos)
 
 ## Welcome to My Site
 
