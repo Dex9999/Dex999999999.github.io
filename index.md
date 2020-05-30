@@ -1,5 +1,7 @@
 # Hacker Site
 
+[Photo Gallery](photos)
+
 ## Welcome to My Site
 
 Hello, my name is Declan. Welcome to my site!
