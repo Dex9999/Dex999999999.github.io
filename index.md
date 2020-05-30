@@ -1,7 +1,9 @@
 # Hacker Site
 
 [Broadway Memes](funnyphotos)
+
 [Yummy Food Gallery](photos)
+
 [Elm Projects](elmprojects)
 
 ## Welcome to My Site
