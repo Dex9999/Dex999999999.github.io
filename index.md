@@ -1,7 +1,8 @@
 # Hacker Site
 
-[Broadway Memes](idk)
+[Broadway Memes](funnyphotos)
 [Yummy Food Gallery](photos)
+[Elm Projects](elmprojects)
 
 ## Welcome to My Site
 
@@ -19,6 +20,3 @@ Favorite Fruits:
 2. Blackberries
 3. Pineapple
 4. Blueberries
-
-# Racing Game
-<iframe width="100%" height="600px" style="border:none;background:white;" src="https://macoutreach.rocks/share/5c819a4e">
