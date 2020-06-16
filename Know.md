@@ -1,1 +1,11 @@
-#What I Know
+#What I Know About Shakespere
+
+- He wrote 37 plays
+- He was born in 1564
+- He helped write a few other plays like Edward III
+- He was great at using language to set the tone or scene
+- His plays are performed in many different langauges around the world
+- He also wrote a lot of sonnets
+
+[http://briancarrillo.com/wp/wp-content/uploads/2016/09/NextButton.png](Learn)
+[<iframe src="http://briancarrillo.com/wp/wp-content/uploads/2016/09/NextButton.png" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>](Learn)
