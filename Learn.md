@@ -6,4 +6,5 @@ I want to learn:
 3. What play does he like the most?
 4. When will Shakespere start to be less popular if ever?
 5. Where did he write his plays and where were they perfomed first?
+
 [![Next Button](image.png)](AfterResearch)
