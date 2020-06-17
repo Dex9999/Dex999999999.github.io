@@ -11,4 +11,5 @@
 4. In early London Shakespeare's most watched plays were the histories unlike now with more people watching the tragedies. But early readers didn't like Shakespeare as much as other playwriters like Ben Johnson (who you have probably never heard of) and it wasn't until the late 1700s, around 80 years after Hamlet was first performed that readers started to praise the "To be or not to be" speech. Also, he was originally popular as a poet for his sonnets and Venus and Adonis before being known for his plays.
 
 5. Shakespeare's lost years refer to the seven years of his life where no records of him exist. There are many rumours about what he was doing during this time.  A theory is that he might have hidden for poaching game from the nearby landlord or he might have been an assistant to a schoolmaster in Lancashire. Sadly because there are no records, we will probably never know what he did during these years.
+
 [![back button](back.png)](Learn) [![Next Button](next.png)](Sources)
