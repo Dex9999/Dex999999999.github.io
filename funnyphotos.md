@@ -1,5 +1,5 @@
 # Funny Broadway Memes
-[Back To Home](/)
+[Back To Home](home)
 
 ![Hamilton Meme](hamiltonmeme.png)
 ![Phantom of the Opera Meme](https://i.pinimg.com/564x/92/e3/d3/92e3d3511059bbc061e4b31b7d20dccb.jpg)
