@@ -7,4 +7,4 @@
 - His plays are performed in many different langauges around the world
 - He also wrote a lot of sonnets
 
-[![Next Button](image.png)](Learn)
+[![Next Button](next.png)](Learn)
