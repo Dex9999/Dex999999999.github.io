@@ -12,4 +12,4 @@
 
 5. Shakespeare's lost years refer to the seven years of his life where no records of him exist. There are many rumours about what he was doing during this time.  A theory is that he might have hidden for poaching game from the nearby landlord or he might have been an assistant to a schoolmaster in Lancashire. Sadly because there are no records, we will probably never know what he did during these years.
 
-[![back button](back.png)](Learn)       [![Next Button](next.png)](Sources)
+[![back button](back.png)](Learn)                                                                                                      [![Next Button](next.png)](Sources)
