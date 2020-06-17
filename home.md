@@ -6,6 +6,8 @@
 
 [Elm Projects](elmprojects)
 
+[Shakespere Passion Project](althome)
+
 ## Welcome to My Site
 
 Hello, my name is Declan. Welcome to my site!
