@@ -1,5 +1,6 @@
 # What I Want To Learn
 [Back To Home](althome)
+
 I want to learn:
 1. Why is Shakespere so famous?
 2. How long did it take him to write plays?
@@ -7,4 +8,4 @@ I want to learn:
 4. When will Shakespere start to be less popular if ever?
 5. Where did he write his plays and where were they perfomed first?
 
-[![Next Button](image.png)](AfterResearch)
+[![back button](back.png)](Know)[![Next Button](next.png)](AfterResearch)
