@@ -8,6 +8,8 @@
 
 [Shakespeare Passion Project](althome)
 
+[My Photography](photography)
+
 ## Welcome to My Site
 
 Hello, my name is Declan. Welcome to my site!
