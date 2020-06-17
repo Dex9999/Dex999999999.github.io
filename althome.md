@@ -1,4 +1,4 @@
-## Welcome to my site!
+## Welcome to my Passion Project site!
 
 ### I am doing my passion project on Shakespere and I also have a page on some of the photos I have taken
 
@@ -13,3 +13,5 @@
 [Sources](Sources)
 
 [My Photos](photography)
+
+[My Main Site](/)
