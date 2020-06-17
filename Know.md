@@ -1,5 +1,5 @@
 # What I Know About Shakespere
-
+[Back To Home](althome)
 - He wrote 37 plays
 - He was born in 1564
 - He helped write a few other plays like Edward III
