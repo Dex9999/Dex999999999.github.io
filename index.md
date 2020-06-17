@@ -6,7 +6,7 @@
 
 [Elm Projects](elmprojects)
 
-[Shakespere Passion Project](althome)
+[Shakespeare Passion Project](althome)
 
 ## Welcome to My Site
 
