@@ -1,3 +1,7 @@
+---
+permalink: /.html
+---
+
 # My Site
 
 [Broadway Memes](funnyphotos)
