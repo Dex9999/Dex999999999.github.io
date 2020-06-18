@@ -1,4 +1,7 @@
-![Logo](IMG_1989.JPG)
+![Logo](zombie.png)
+
+[Back To All Photos](photography)
+
 ![Photo](IMG_2028.JPG)
 ![Photo](IMG_2004.JPG)
 ![Photo](IMG_1975.JPG)
