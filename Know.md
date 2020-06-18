@@ -8,4 +8,5 @@ I recently watched Romeo and Juliet and read a book with a summary of each of Sh
 * His plays are performed in many different langauges around the world
 * He also wrote a lot of sonnets
 In this website I will do some research and learn more about the bard.
+
 [![Next Button](next.png)](Learn)
