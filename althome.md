@@ -14,4 +14,6 @@
 
 [My Photos](photography)
 
+[Comic Summaries](comics)
+
 [My Main Site](/)
