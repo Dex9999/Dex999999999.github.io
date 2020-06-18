@@ -8,4 +8,4 @@ After I conduct my research I want to know:
 4. Was Shakespeare as famous as when he was alive now?
 5. What does Shakespeare's "Lost Years" mean?
 
-[![back button](back.png)](Know)[![Next Button](next.png)](AfterResearch)
+[![back button](back.png)](Know)![nothing](block.png)[![Next Button](next.png)](AfterResearch)
