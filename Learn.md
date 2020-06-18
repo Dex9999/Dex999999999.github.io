@@ -1,11 +1,11 @@
 # What I Want To Learn
 [Back To Home](althome)
 
-I want to learn:
+After I conduct my research I want to know:
 1. Why is Shakespere so famous?
 2. How did he write plays?
 3. What were his most famous plays?
 4. Was Shakespeare as famous as when he was alive now?
-5. What are Shakespeare's "Lost Years"?
+5. What does Shakespeare's "Lost Years" mean?
 
 [![back button](back.png)](Know)[![Next Button](next.png)](AfterResearch)
