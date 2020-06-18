@@ -13,6 +13,6 @@ Estill, Laura. "Was Shakespeare as Popular in His Own Time as He Is Now?" Britis
 
 Biography.com Editors. "William Shakespeare." Biography.com. A&amp;E Networks Television, 28 Aug. 2019. Web. 17 June 2020.
 
-[![back button](back.png)](AfterResearch)
+[![back button](back.png)](Why)
 
 [![Wanna See My Photos Poohead? The Answer Is Yes, Redirecting You To "Photography Page"](button2.png)](photography)
