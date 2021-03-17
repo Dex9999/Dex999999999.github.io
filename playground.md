@@ -4,9 +4,4 @@
   
   <iframe src="https://open.spotify.com/embed/track/1L3wn1FJHmnv9OpjVbkMzY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe
-   src="https://clips.twitch.tv/embed?clip=IncredulousAbstemiousFennelImGlitch"
-   height="360"
-   width="640"
-   allowfullscreen="true">
-</iframe>
+<iframe width="480" height="270" src="https://www.kickstarter.com/projects/elanlee/throw-throw-burrito/widget/video.html" frameborder="0" scrolling="no"> </iframe>
