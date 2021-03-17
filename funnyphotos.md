@@ -7,4 +7,3 @@
 ![Dear Evan Hansen Meme](https://i.pinimg.com/564x/0f/55/64/0f5564605065f67b94fe61aaae26c993.jpg)
 ![Another Dear Evan Hansen Meme](https://i.pinimg.com/564x/ce/37/4c/ce374c6417cacc9e1b737ea987bd08b7.jpg)
 ![Be more chill and beetlejuice meme](https://i.pinimg.com/564x/08/bb/33/08bb332931d69d02910b2d947821a70b.jpg)
-<iframe src="https://open.spotify.com/embed/track/1L3wn1FJHmnv9OpjVbkMzY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
