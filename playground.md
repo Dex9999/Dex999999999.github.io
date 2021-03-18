@@ -33,3 +33,20 @@
     </iframe>
   </div>
 </div>
+/* start philna.sh twitch code */
+.twitch {
+    margin-top: 38vw
+}
+
+.twitch .twitch-video {
+  padding-top: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.twitch .twitch-video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
