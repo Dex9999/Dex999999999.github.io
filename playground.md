@@ -18,6 +18,9 @@
 <!--Chess Game (Me vs Carol)-->
 <iframe id="7756274" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=7756274"></iframe><script>window.addEventListener("message",e=>{e['data']&&"7756274"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
+<!--Epic Chess (Adi vs Bosco)-->
+Adi VS Bosco
+<iframe id="7760748" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=7760748"></iframe><script>window.addEventListener("message",e=>{e['data']&&"7760748"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
 
 <!--Tiktok Player (VFX video)-->
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@brandon_baum/video/6938801694008528134" data-video-id="6938801694008528134" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@brandon_baum" href="https://www.tiktok.com/@brandon_baum">@brandon_baum</a> <p>Craziest Snow Globe I’ve Ever Seen...</p> <a target="_blank" title="♬ Sugarcrash! - ElyOtto" href="https://www.tiktok.com/music/Sugarcrash-6920125567752734722">♬ Sugarcrash! - ElyOtto</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
