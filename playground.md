@@ -1,3 +1,6 @@
+<!-- Division Calc-->
+<a href="https://www.calculatorsoup.com/calculators/math/fractions.php" onclick="window.open('https://www.calculatorsoup.com/calculators/math/fractions.php?do=pop','Fractions Calculator','width=400,height=600,toolbar=no,menubar=no,scrollbars=yes,resizable=yes');return false;">Fractions Calculator</a>
+
 <!--Youtube Player-->
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/M7lc1UVf-VE?autoplay=1&origin=http://example.com"
