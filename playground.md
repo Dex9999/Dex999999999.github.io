@@ -31,3 +31,5 @@ Adi VS Bosco
 
 <!--Tweet (from Malcolm lol)-->
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">spamming the tl how are we today</p>&mdash; mmmmmratcake (@mmmmratcake) <a href="https://twitter.com/mmmmratcake/status/1367534894453297153?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://discord.com/widget?id=647444787854835712&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
