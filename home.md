@@ -26,3 +26,5 @@ Favorite Fruits:
 2. Blackberries
 3. Pineapple
 4. Blueberries
+
+[Random Cool Stuff](playground)
