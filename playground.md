@@ -37,3 +37,7 @@ Adi VS Bosco
 <iframe src="https://discord.com/widget?id=838864482654093384&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <iframe width="640" height="480" frameBorder="0" src="https://edu.cospaces.io/JSM-HZH"></iframe>
+
+<embed src="http://simbuino4web.ppl-pilot.com/" style="width:500px; height: 300px;">
+
+<iframe src=https://create.arduino.cc/editor/dex999999999/d1a51a9f-c3b6-4248-9c87-7f3e4de5866b/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
