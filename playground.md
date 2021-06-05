@@ -38,6 +38,11 @@ Adi VS Bosco
 
 <iframe width="640" height="480" frameBorder="0" src="https://edu.cospaces.io/JSM-HZH"></iframe>
 
-<embed src="http://simbuino4web.ppl-pilot.com/" style="width:500px; height: 300px;">
+
 
 <iframe src="https://create.arduino.cc/editor/dex999999999/d1a51a9f-c3b6-4248-9c87-7f3e4de5866b/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
+<embed src="http://simbuino4web.ppl-pilot.com/" style="width:500px; height: 300px;">
+<iframe src="http://simbuino4web.ppl-pilot.com/" width="100%" height="300">
+  <p>Your browser does not support iframes.</p>
+</iframe>
