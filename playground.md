@@ -46,3 +46,7 @@ Adi VS Bosco
 <iframe src="http://simbuino4web.ppl-pilot.com/" width="100%" height="300">
   <p>Your browser does not support iframes.</p>
 </iframe>
+
+<gamebuino-emulator
+    src="https://raw.githubusercontent.com/aoneill01/meta-solitaire/master/binaries/Solitaire/SOLITAIRE.BIN"
+></gamebuino-emulator>
