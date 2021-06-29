@@ -10,6 +10,8 @@
 
 [My Photography](photography)
 
+[Random Cool Stuff](playground)
+
 ## Welcome to My Site
 
 Hello, my name is Declan. Welcome to my site!
@@ -27,4 +29,4 @@ Favorite Fruits:
 3. Pineapple
 4. Blueberries
 
-[Random Cool Stuff](playground)
+
